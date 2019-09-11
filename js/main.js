@@ -1,8 +1,8 @@
-var number1 = 10;
-var number2 = 30;
-
-function sum(){
-    return number1 + number2;
+function wyswietlWynik(number1, number2){
+    var number1 = 12;
+    var number2 = 12;
+    var suma = number1 + number2
+    return suma;
 }
 
-console.log(sum());
+console.log(wyswietlWynik());
